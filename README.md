@@ -1,7 +1,7 @@
 # service-py-user-msc
 
 <h1 align="center">
-  Rapid View Media service for file uploads
+  User Service for login with JWT Token
 </h1>
 
 ![Project Logo](./assets/Rapid%20Logo.jpeg)
